@@ -103,4 +103,3 @@ if (!empty($pagina)) {
 
 // Retornar o resultado em formato JSON
 echo json_encode($retorna);
-?>
